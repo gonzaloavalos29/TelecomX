@@ -1,8 +1,6 @@
 # 📊 TelecomX Challenge — Análisis de Evasión de Clientes
 Proyecto de análisis de datos desarrollado para el programa de formación ALURA G8 (2025), orientado a identificar patrones de cancelación de clientes en una empresa de telecomunicaciones.  
 
-https://drive.google.com/drive/folders/1bmZem_erWEUn_E1Kq8Bsj9Cu1vr1QRsU?usp=sharing
-
 ## 📁 Estructura del proyecto
 
 - `TelecomX_Data.json`: dataset original provisto.
@@ -17,14 +15,6 @@ https://drive.google.com/drive/folders/1bmZem_erWEUn_E1Kq8Bsj9Cu1vr1QRsU?usp=sha
 - Análisis exploratorio de datos
 - Visualización de datos
 - Limpieza avanzada de datos
-
-## 🤝 Créditos
-
-Desarrollado por Walter Nestor Mancuso 
-Desafío del curso de Ciencia de Datos — ALURA LATAM G8 (2025)
-
-
-Prof. Ingrid Silva y Paz Correa
 
 ![Python](https://img.shields.io/badge/python-3.10-blue.svg)
 ![Pandas](https://img.shields.io/badge/pandas-1.5.3-lightgrey)
